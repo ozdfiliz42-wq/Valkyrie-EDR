@@ -1,0 +1,11 @@
+[
+    {
+        "timestamp": "2026-06-12T01:06:41.171032",
+        "alert_level": "CRITICAL",
+        "pid": 666,
+        "process_name": "ransomware_sim.exe",
+        "file_path": "/Users/filizozdemir/Desktop/Valkyrie-EDR/malicious/ransomware_sim.exe",
+        "sha256_hash": "84898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+        "message": "Critical Threat Detected: Known Ransomware signature family matched."
+    }
+]
